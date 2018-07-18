@@ -6,4 +6,5 @@ configure do
 end
 
 class App < Sinatra::Base
+  
 end
